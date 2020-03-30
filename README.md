@@ -1,2 +1,0 @@
-# Chioma
- GIT Assignment
